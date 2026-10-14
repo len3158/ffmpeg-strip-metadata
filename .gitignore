@@ -1,0 +1,7 @@
+# Script output
+cleaned/
+output/
+*.mp4
+
+# OS
+.DS_Store
